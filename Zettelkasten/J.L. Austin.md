@@ -3,7 +3,7 @@
 
 Status: #idea
 
-Tags: #philosopher #linguist
+Tags: #philosopher #linguist #scholar
 
 # J.L. Austin
 
