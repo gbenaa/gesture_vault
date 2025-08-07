@@ -7,18 +7,19 @@ Tags: [[Fayum]] [[Doxiadis, Euphrosyne]]
 # The Mysterious Fayum Portraits; Faces from Ancient Egypt - the Fayum connection
 
 # Notes
+
+p237
 [[Byzantine_icon__Fayum_connection]]"Note 34, I am indebted to [[Raffan, John]] for suggesting this direct line of evolution"
 
 **
-
+p90
 From Fayum portraits to Byzantine icons
 
   
 
-While the evidence is very fragmentary, we can glimpse the transition from pagan to Christian art in the Roman world. Fayum portraits and the first Christian icons must have existed side-by-side until the final extinction of portrait mummies. Icons dating from the 6th-7th century preserved in St Catherine's monastery, Mount Sinai, bear a striking resemblance to the portraits [28]. Their place of origin is debated, but unquestionably Egyptian are 6th-century Christian wall-paintings such as those from Bawit, south of Hermoupolis, and a number of 4th-7th-century icons [e.g. 33]. Elsewhere in the Mediterranean, humidity and iconoclasm have taken their toll; but there can be no doubt that portraits like those found in the Fayum are the forebears of icons. 33
-
+While the evidence is very fragmentary, we can glimpse the transition from pagan to Christian art in the Roman world. Fayum portraits and the first Christian icons must have existed side-by-side until the final extinction of portrait mummies. Icons dating from the 6th-7th century preserved in St Catherine's monastery, Mount Sinai, bear a striking resemblance to the portraits [28]. Their place of origin is debated, but unquestionably Egyptian are [[6th-century Christian wall-paintings]]6th-century such as those from [[Bawit]], south of Hermoupolis, and a number of 4th-7th-century icons e.g. 33 [[artwork fragment 6th-7th-century]]. Elsewhere in the Mediterranean, humidity and iconoclasm have taken their toll; but there can be no doubt that portraits like those found in the Fayum are the forebears of icons. Note 33
+[[Byzantine_icon__Fayum_connection_Xyngopoulos]]
   
-
 It must have been relatively easy for the early Christians in Roman Egypt to switch from the worship of painted portraits of gods and emperors and of men and women to the worship of painted portraits of divine personages (i.e. Christ or the Virgin Mary) and of saints and martyrs. The new icons were a way of bringing religion into the home, particularly at the time when public worship was forbidden.
 
   
