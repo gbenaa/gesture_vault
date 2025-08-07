@@ -3,7 +3,7 @@
 
 Status: #idea
 
-Tags: #essay #todo
+Tags: #essay #todo 
 # Gesture naming - the problem
 a) the power and significance of naming is lost and unusable
 b) the philosophy of names and naming

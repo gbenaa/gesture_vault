@@ -1,10 +1,9 @@
 
 250805_2013
 
-Status: #idea #author #scholar 
+Status: #idea #author #scholar  #thinker 
 
-Tags: [[]]
-Remember to use a link here with double opening square bracket
+Tags: 
 # Raffan, John
 
 
