@@ -9,7 +9,7 @@ year: 2024
 
 Status: #book
 
-Tags: [[Byzantine_icon__Fayum_connection]]
+Tags: [[Fayum_Byantine_icon_connection]]
 
 # Chapter 1
 p40
