@@ -1,9 +1,9 @@
 ---
-title: TThe mysterious Fayum portraits: Faces from ancient Egypt
+title: The mysterious Fayum portraits; Faces from ancient Egypt
 authors: Euphrosyne Doxiadis
 year: 2024
 ---
-
+;
 
 250807_1838
 

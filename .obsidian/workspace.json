@@ -27,12 +27,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference notes/Gorea, PhD.md",
+                "file": "Zettelkasten/participatory turn and Byzantium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gorea, PhD"
+              "title": "participatory turn and Byzantium"
+            }
+          },
+          {
+            "id": "5139e5ae05bbf1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/mudras connection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mudras connection"
+            }
+          },
+          {
+            "id": "7add222462a6723e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/commedia dell'arte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commedia dell'arte"
+            }
+          },
+          {
+            "id": "a726f5d701eb4297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference notes/The Mysterious Fayum Portraits; Faces from Ancient Egypt - the Fayum connection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Mysterious Fayum Portraits; Faces from Ancient Egypt - the Fayum connection"
+            }
+          },
+          {
+            "id": "e5d741f65383b77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Icons and the Mystical Origins of Christianity - the Fayum connection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Icons and the Mystical Origins of Christianity - the Fayum connection"
+            }
+          },
+          {
+            "id": "62cbfe9ec8eb02b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/artefact_10000100.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "artefact_10000100"
             }
           },
           {
@@ -74,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dox",
+                "query": "154",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 678.5
+    "width": 421.5
   },
   "right": {
     "id": "f8376f03be7192cf",
@@ -147,9 +217,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Core Zettel idea.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Zettelkasten/artefact_10000100.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -157,7 +227,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Core Zettel idea"
+              "title": "Backlinks for artefact_10000100"
             }
           },
           {
@@ -208,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,37 +290,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5014d5beaafbf22e",
+  "active": "62cbfe9ec8eb02b5",
   "lastOpenFiles": [
-    "Zettelkasten/Gor, Adrian.md",
-    "Zettelkasten/Participatory Turn, The.md",
-    "Zettelkasten/routes, points and non-duality.md",
-    "Zettelkasten/you are the book.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/participatory turn and Byzantium.md",
-    "Reference notes/@pentchevaPerformativeIcon2006.md",
-    "Reference notes/@nelsonSaySeeEkphrasis2007.md",
-    "Reference notes/The Mysterious Fayum Portraits; Faces from Ancient Egypt - the Fayum connection.md",
-    "Reference notes/@doxiadisMysteriousFayumPortraits2024.md",
-    "Zettelkasten/Icons and the Mystical Origins of Christianity - the Fayum connection.md",
-    "Zettelkasten/Fayum_Byantine_icon_connection.md",
-    "Zettelkasten/Fayum__Byzantine_icon_connection_Xyngopoulos.md",
-    "Zettelkasten/Fayum__Byzantine_icon_connection_Temple.md",
-    "Reference notes/@templeIconsMysticalOrigins1990.md",
-    "Zettelkasten/gesture.md",
-    "Zettelkasten/Xyngopoulos, Andreas.md",
-    "Zettelkasten/Gesture, \"Teaching\".md",
-    "Zettelkasten/Egyptian origin paintings.md",
-    "Zettelkasten/Bawit.md",
-    "Zettelkasten/6th-century Christian wall-paintings.md",
-    "Untitled 3.canvas",
-    "Reference notes/artwork fragment 6th-7th-century.md",
-    "Reference notes/@goreaPerformingIconMidst.md",
     "Files/WhatsApp Image 2025-08-07 at 19.54.59.jpeg",
-    "Reference notes/@mathewsDawnChristianArt2016.md",
-    "Reference notes/fayum portrait icon hybrid.md",
+    "Zettelkasten/artefact_10000300.md",
+    "Zettelkasten/artefact_10000200.md",
+    "Zettelkasten/Doxiadis, Euphrosyne.md",
+    "Zettelkasten/delme.md",
+    "Zettelkasten/Icons and the Mystical Origins of Christianity - the Fayum connection.md",
+    "Zettelkasten/gesture_instance_hash_0000200.md",
+    "Zettelkasten/gesture_instance_afoc_0000100.md",
+    "Zettelkasten/artefact_10000100.md",
+    "Files/Screenshot from 2025-08-13 14-17-53.png",
+    "Files/Screenshot from 2025-08-13 12-28-19.png",
+    "Files/Screenshot from 2025-08-13 14-08-36.png",
+    "Files/Screenshot from 2025-08-13 14-05-23.png",
+    "Files/Screenshot from 2025-08-13 12-30-19.png",
+    "Files/Screenshot from 2025-08-13 12-29-16.png",
+    "Zettelkasten/gesture_instance_hash_0000300.md",
+    "Zettelkasten/Gesture, described - arms folded over chest.md",
+    "Zettelkasten/Gesture, described - hands covering sleeves.md",
+    "Zettelkasten/Gesture, described - hand above shoulder height.md",
+    "Zettelkasten/Gesture, named - distress.md",
+    "Zettelkasten/Gesture, named - subservience and respect.md",
+    "Zettelkasten/Gesture, named - subservience.md",
+    "Zettelkasten/Gesture, named - respect.md",
+    "Zettelkasten/Gesture, named - \"Teaching\".md",
+    "Untitled 4.canvas",
+    "Zettelkasten/gesture.md",
+    "Zettelkasten/symbolic language.md",
+    "Reference notes/@streiterSchemataLanguageBody2022.md",
+    "Zettelkasten/mudras connection.md",
+    "Zettelkasten/vision, the aspect.md",
+    "Zettelkasten/performative, icons.md",
+    "Zettelkasten/cicero connection.md",
+    "Reference notes/The Mysterious Fayum Portraits; Faces from Ancient Egypt - the Fayum connection.md",
     "Files/IMG_20250806_222859.jpg",
+    "Untitled 3.canvas",
     "Files/Funeral_Portrait_Of_A_Woman_1191x1684_crop_center.jpg",
     "Files/Unconfirmed 337560.crdownload",
     "Literature notes",

@@ -6,7 +6,7 @@ todo: make the argument
 
 Status: #idea
 
-Tags: #essay #todo 
+Tags: #essay #todo #deliverable
 Remember to use a link here with double opening square bracket
 # participatory turn and byzantium
 

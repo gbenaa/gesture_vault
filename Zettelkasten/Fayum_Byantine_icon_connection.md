@@ -3,7 +3,7 @@
 
 Status: #idea
 
-#essay #todo
+#essay #todo #deliverable
 
 Tags: [[Fayum]]  [[Byzantine icons]] [[The Mysterious Fayum Portraits; Faces from Ancient Egypt]]
 
